@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d80bd11-78fc-49e0-9f98-5f38422d4502" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/Burger.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Burger/Burger.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/BurgerIngredients/BurgerIngedients.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BurgerIngredients/BurgerIngedients.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/BurgerIngredients/BurgerIngredient.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BurgerIngredients/BurgerIngredient.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="155AddingPropTypeValidation" />
+        <entry key="$PROJECT_DIR$" value="156StartingTheBurgerComponent" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -143,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571575091908</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Build Burger">
+      <created>1571576987882</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571576987882</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +169,7 @@
     <MESSAGE value="Layout done" />
     <MESSAGE value="Burger layout done" />
     <MESSAGE value="Adding PropTypes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding PropTypes" />
+    <MESSAGE value="Build Burger" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build Burger" />
   </component>
 </project>
