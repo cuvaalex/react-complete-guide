@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d80bd11-78fc-49e0-9f98-5f38422d4502" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/Aux.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-    </list>
+    <list default="true" id="1d80bd11-78fc-49e0-9f98-5f38422d4502" name="Default Changelist" comment="" />
     <list id="413ea5a0-77bb-4b80-91be-a66741798a5e" name="ignore" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
@@ -90,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571556859374</updated>
       <workItem from="1571556860484" duration="2976000" />
-      <workItem from="1571560946621" duration="291000" />
+      <workItem from="1571560946621" duration="550000" />
     </task>
     <task id="LOCAL-00001" summary="config init">
       <created>1571558988826</created>
@@ -113,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571559481895</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Layout done">
+      <created>1571561352182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571561352182</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="config init" />
-    <option name="LAST_COMMIT_MESSAGE" value="config init" />
+    <MESSAGE value="Layout done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Layout done" />
   </component>
 </project>
